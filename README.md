@@ -21,6 +21,6 @@ Using the following tools:
   <li>How to import CSS and Image</li>
 </ul>
 
-### The information contained in the interface is static and need not reflect any REST API or backend.
+### The information contained in the interface is static and not reflect any REST API or backend.
 
 
