@@ -1,6 +1,6 @@
 # React-Concepts
 
--In this application, we developed a similar interface with Facebook,
+- In this application, we developed a similar interface with Facebook,
 Using the following tools:
 <ul>
   <li>Webpack</li>
@@ -9,7 +9,7 @@ Using the following tools:
   <li>ReactJS</li> 
 </ul>
 
--And we use some React concepts, such as:
+- And we use some React concepts, such as:
 <ul>
   <li>Structure of project</li>
    <li>Class Components</li>
@@ -21,6 +21,6 @@ Using the following tools:
   <li>How to import CSS and Image</li>
 </ul>
 
--The information contained in the interface is static and need not reflect any REST API or backend.
+- The information contained in the interface is static and need not reflect any REST API or backend.
 
 
